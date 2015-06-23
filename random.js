@@ -1,4 +1,4 @@
-var numero = Math.ramdom();
+var numero = Math.random();
 
 var str = '\n'+numero+' MENOR que 0,5 \n';
 
